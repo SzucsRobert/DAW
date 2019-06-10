@@ -1,0 +1,130 @@
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.deps.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.dev.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csprojAssemblyReference.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CoreCompileInputs.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfoInputs.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.input.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.output.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorCoreGenerate.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CopyComplete
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Create.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Delete.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Details.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Edit.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.deps.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.dev.json
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csprojAssemblyReference.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CoreCompileInputs.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfoInputs.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.input.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.output.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorCoreGenerate.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Create.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Delete.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Details.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Edit.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cache
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CopyComplete
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoggedLayout.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SuccesfullyRegistered.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\Privacy.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Create.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Delete.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Details.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Edit.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Index.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Teams.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\YourTeam.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\ChooseTeam.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SignUp.g.cshtml.cs
+D:\ISKOLA\TRY PROGRAMMING\UTOLSO VERZIO\ROBI\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SignIn.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.deps.json
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.json
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.runtimeconfig.dev.json
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.dll
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\bin\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csprojAssemblyReference.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CoreCompileInputs.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorAssemblyInfo.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfoInputs.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.AssemblyInfo.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.input.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.TagHelpers.output.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorCoreGenerate.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SignIn.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SignUp.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Account\SuccesfullyRegistered.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Teams.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\ChooseTeam.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\Index.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\Privacy.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Logged\YourTeam.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Create.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Delete.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Details.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Edit.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\PokemonLogged\Index.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Details.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Pokemon\Index.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoggedLayout.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cache
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.RazorTargetAssemblyInfo.cs
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.Views.pdb
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.dll
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.pdb
+D:\PROIECTE\ROBI MODOSITOTT\Pokemon Web App\Pokemon Web App\obj\Debug\netcoreapp2.2\Pokemon Web App.csproj.CopyComplete

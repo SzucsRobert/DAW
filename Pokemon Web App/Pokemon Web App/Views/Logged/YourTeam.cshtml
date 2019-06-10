@@ -1,0 +1,17 @@
+﻿@model Pokemon_Web_App.Models.Team
+
+@{
+    ViewData["Title"] = "YourTeam";
+    Layout="_LoggedLayout";
+}
+
+<h1>YourTeam:</h1>
+
+<div class="text-center">
+    <h1>@Html.DisplayFor(model => model.Name)</h1>
+    <br />
+    <img src="@Html.DisplayFor(model => model.Logo)" width="300" height="300" multiple />
+    <br />
+    <br />
+    <p>@Html.DisplayFor(model => model.description)</p>
+</div>

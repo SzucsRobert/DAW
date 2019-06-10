@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Pokemon_Web_App.Models.Team>
+
+@{
+    ViewData["Title"] = "Teams";
+}
+
+<h1 class="text-center">Teams</h1>
+<br />
+<div class="text-center">
+    @foreach (var item in Model)
+    {
+        <h1>@Html.DisplayFor(modelItem => item.Name)</h1>
+        <br />
+        <img  src="@Html.DisplayFor(modelItem => item.Logo)" width="300" height="300" multiple />
+        <br />
+        <h3 >@Html.DisplayFor(modelItem => item.description)</h3>
+        <br />
+
+    }
+</div>
